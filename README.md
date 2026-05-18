@@ -82,3 +82,9 @@ The site features logos from Ontario's leading healthcare organizations, includi
 ## 📄 License
 
 © 2025 Medical Arts Dispensary of Ottawa. All rights reserved.
+
+##  HomePage
+
+<img width="1836" height="981" alt="2" src="https://github.com/user-attachments/assets/307fe0fa-d116-449b-9428-40963bbc369c" />
+<img width="1836" height="969" alt="1" src="https://github.com/user-attachments/assets/7aff605a-a46b-405e-937e-68a661be2694" />
+
